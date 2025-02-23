@@ -33,6 +33,7 @@ Frontend: HTML, CSS
 Machine Learning Model: Random Forest Classifier
 
 Future Improvements
+
 Enhance UI design.
 Allow users to upload medical reports for automated processing.
 Deploy on a cloud platform for global access.
